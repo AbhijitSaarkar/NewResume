@@ -51,7 +51,7 @@ const Navbar = () => {
               <div className="h-full w-full rounded-full bg-white flex items-center justify-center overflow-hidden">
                 {/* Replace with your profile photo */}
                 <img 
-                  src="src/myimg.jpg" 
+                  src="../src/myimg.jpg" 
                   alt="Profile" 
                   className="h-full w-full object-cover"
                 />

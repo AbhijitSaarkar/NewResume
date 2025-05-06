@@ -9,7 +9,7 @@ const Navbar = () => {
           {/* Social Links - Left Side */}
           <div className="flex space-x-4">
             <a 
-              href="https://linkedin.com" 
+              href="https://www.linkedin.com/in/abhijit-sarkar-05a213238/" 
               target="_blank" 
               rel="noopener noreferrer"
               className="text-gray-500 hover:text-blue-600 transition-colors"
@@ -18,7 +18,7 @@ const Navbar = () => {
               <Linkedin size={20} />
             </a>
             <a 
-              href="https://x.com" 
+              href="https://x.com/AbhijitS1000" 
               target="_blank" 
               rel="noopener noreferrer"
               className="text-gray-500 hover:text-black transition-colors"
@@ -27,7 +27,7 @@ const Navbar = () => {
               <Twitter size={20} />
             </a>
             <a 
-              href="https://github.com" 
+              href="https://github.com/AbhijitSaarkar" 
               target="_blank" 
               rel="noopener noreferrer"
               className="text-gray-500 hover:text-purple-600 transition-colors"
@@ -51,7 +51,7 @@ const Navbar = () => {
               <div className="h-full w-full rounded-full bg-white flex items-center justify-center overflow-hidden">
                 {/* Replace with your profile photo */}
                 <img 
-                  src="https://instagram.fblr20-2.fna.fbcdn.net/v/t51.2885-19/466567538_2050180065397362_350441760601605563_n.jpg?_nc_ht=instagram.fblr20-2.fna.fbcdn.net&_nc_cat=106&_nc_oc=Q6cZ2AEeE2zeslLJO-Pm2PP6H83G4lWGwc-z6JRI-nYIpJCt-mFovJ74yqtvbXJ3vSc38gY&_nc_ohc=pdh2T8yrBDUQ7kNvgEWZMbY&_nc_gid=ce606afbd84842d997c766bac8758bf9&edm=ALGbJPMBAAAA&ccb=7-5&oh=00_AYBNOZ7t5mwiFE16-jHAsGACZ5DZnloHbhyHO0hKDzgyGQ&oe=67C91A7D&_nc_sid=7d3ac5" 
+                  src="myimg.jpg" 
                   alt="Profile" 
                   className="h-full w-full object-cover"
                 />
